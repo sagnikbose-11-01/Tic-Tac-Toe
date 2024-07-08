@@ -26,7 +26,7 @@ To run this project locally, follow these steps:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd tic-tac-toe-react
+   cd Tic-Tac-Toe
    ```
 3. Install the dependencies:
    ```bash
